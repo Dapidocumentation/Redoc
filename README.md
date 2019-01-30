@@ -1,4 +1,4 @@
-# petstore OpenAPI Specification
+# PetStore OpenAPI Specification
 
 
 ## Working on specification

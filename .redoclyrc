@@ -1,7 +1,7 @@
-specFileName: /home/vipuls/Downloads/petstore.json
-apiTitle: petstore
+specFileName: /home/vipuls/Downloads/PetStore-test-swagger.json
+apiTitle: PetStore
 splitSpec: false
-codeSamples: true
+codeSamples: false
 swaggerUI: true
 travis: false
 oasVersion: '2.0'
