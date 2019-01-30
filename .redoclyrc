@@ -1,0 +1,7 @@
+specFileName: /home/vipuls/Downloads/petstore.json
+apiTitle: petstore
+splitSpec: false
+codeSamples: true
+swaggerUI: true
+travis: false
+oasVersion: '2.0'
